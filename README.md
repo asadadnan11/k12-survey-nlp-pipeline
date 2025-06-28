@@ -2,6 +2,8 @@
 
 A demonstration project showcasing comprehensive Natural Language Processing techniques for analyzing educational survey feedback. This project simulates how data science can drive product improvements in K-12 learning platforms.
 
+![Sentiment Distribution Analysis](images/sentiment_distribution.png)
+
 ## 📋 Project Overview
 
 This portfolio project demonstrates the implementation of a sophisticated NLP analysis pipeline that processes synthetic K-12 survey responses from students and teachers. The project showcases how educational technology teams could use similar methodologies to identify learning experience pain points and prioritize product development efforts.
@@ -23,6 +25,8 @@ Using realistic synthetic data, this project illustrates the complete workflow f
 **Segmentation Analysis**: Systematically analyzes insights by respondent type (student vs. teacher) and grade level groupings (Elementary, Middle, High School) to identify demographic-specific patterns.
 
 **Visualization & Reporting**: Generates comprehensive interactive dashboards and static visualizations using matplotlib, seaborn, and plotly to communicate findings effectively.
+
+![Keywords Analysis Comparison](images/keywords_comparison.png)
 
 ## ✨ Features
 
@@ -82,6 +86,8 @@ The analysis of the synthetic dataset demonstrates the methodology's ability to 
 - 3 segmentation dimensions (grade group, respondent type, sentiment)
 - Dynamic keyword analysis updating based on user selections
 - Export functionality for stakeholder presentations
+
+![Interactive Dashboard Preview](images/dashboard_preview.png)
 
 ### Simulated Business Impact Potential
 
@@ -165,7 +171,7 @@ Jupyter Notebook or JupyterLab
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/asadadnan11/k12-survey-nlp-pipeline.git
    cd k12-survey-nlp-pipeline
    ```
 
