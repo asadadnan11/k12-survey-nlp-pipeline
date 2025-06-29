@@ -261,12 +261,12 @@ This framework can be adapted for production use by:
 
 ## 👨‍💻 About the Author
 
-**Asad Adnan** is a data analytics professional based in Chicago, IL, with plans to relocate to Minneapolis. This project demonstrates proficiency in end-to-end data science workflows, from data processing through analysis to stakeholder communication.
+**Asad Adnan** is a data analytics professional based in Chicago, IL. This project demonstrates proficiency in end-to-end data science workflows, from data processing through analysis to stakeholder communication.
 
 Passionate about leveraging analytics to improve educational outcomes, this portfolio piece showcases technical skills in NLP, sentiment analysis, interactive visualization, and business-focused data science applications. The project illustrates how data science methodologies can be applied to real-world problems in educational technology.
 
 ---
 
-**Contact**: [LinkedIn](https://linkedin.com/in/asadadnan) | **Location**: Chicago, IL → Minneapolis, MN
+**Contact**: [LinkedIn](https://linkedin.com/in/asadadnan) | **Location**: Chicago, IL
 
 *This demonstration project showcases technical capabilities in NLP and data visualization, designed to illustrate how similar methodologies could be applied in production educational technology environments.* 
