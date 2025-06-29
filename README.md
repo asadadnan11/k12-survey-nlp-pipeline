@@ -5,7 +5,7 @@ A comprehensive demonstration of Natural Language Processing techniques applied 
 
 ![Sentiment Distribution Analysis](images/sentiment_distribution.png)
 
-## 📋 Project Context
+## Project Context
 
 This **capstone simulation project** demonstrates the implementation of an end-to-end NLP analysis pipeline for processing educational survey feedback. The project showcases how business analytics can be applied to identify pain points and prioritize development efforts in educational technology.
 
@@ -17,7 +17,7 @@ This **capstone simulation project** demonstrates the implementation of an end-t
 - Create stakeholder-ready visualizations and dashboards
 - Demonstrate proficiency in Python data science ecosystem
 
-## 🔬 Methodology & Technical Approach
+## Methodology & Technical Approach
 
 ### Data Simulation Framework
 
@@ -35,7 +35,7 @@ This **capstone simulation project** demonstrates the implementation of an end-t
 
 ![Keywords Analysis Comparison](images/keywords_comparison.png)
 
-## ✨ Technical Capabilities Demonstrated
+## Technical Capabilities Demonstrated
 
 - **Synthetic Data Generation**: Realistic survey simulation (~800 entries) with balanced demographic representation
 - **NLP Processing Module**: TF-IDF keyword extraction and VADER sentiment scoring implementation
@@ -44,7 +44,7 @@ This **capstone simulation project** demonstrates the implementation of an end-t
 - **Business Communication**: Translation of technical findings into executive recommendations
 - **Professional Visualizations**: Publication-quality charts using Python visualization libraries
 
-## 📊 Simulation Results & Analysis Findings
+## Simulation Results & Analysis Findings
 
 ### Synthetic Dataset Analysis
 
@@ -88,7 +88,7 @@ Three strategic initiatives identified through sentiment analysis:
 
 ![Interactive Dashboard Preview](images/dashboard_preview.png)
 
-## 💡 Strategic Recommendations Framework
+## Strategic Recommendations Framework
 
 ### Priority Matrix Development
 The analysis demonstrates a systematic approach to prioritization:
@@ -105,7 +105,7 @@ Based on feedback analysis:
 - 20% on grade-specific customizations
 - 10% on advanced engagement features
 
-## 📈 Academic Learning Outcomes
+## Academic Learning Outcomes
 
 ### Technical Skills Applied
 - **Natural Language Processing**: NLTK, scikit-learn, VADER implementation
@@ -125,7 +125,7 @@ Based on feedback analysis:
 - ROI analysis and resource allocation modeling
 - Stakeholder communication through data visualization
 
-## 🚀 Project Setup & Exploration
+## Project Setup & Exploration
 
 ### Quick Start
 ```bash
@@ -136,19 +136,19 @@ pip install -r requirements.txt
 
 ### Exploration Options
 
-**📊 Interactive Dashboard** (Recommended)
+**Interactive Dashboard** (Recommended)
 ```bash
 streamlit run dashboard.py
 ```
 Access at `http://localhost:8501` for full interactive experience
 
-**📓 Jupyter Analysis** 
+**Jupyter Analysis** 
 ```bash
 jupyter notebook k12-survey-nlp-pipeline.ipynb
 ```
 Complete step-by-step analysis with detailed explanations
 
-**📈 Business Impact Simulation**
+**Business Impact Simulation**
 ```bash
 python product_impact_study.py
 ```
@@ -160,7 +160,7 @@ Generates business case files and ROI analysis
 - **Pain Point Analysis**: Learning fatigue and UI barrier identification
 - **Business Intelligence**: Strategic recommendations with quantified impact
 
-## 👨‍💻 About This Academic Project
+## About This Academic Project
 
 **Student**: Asad Adnan | **Program**: Business Analytics  
 **Location**: Chicago, IL
