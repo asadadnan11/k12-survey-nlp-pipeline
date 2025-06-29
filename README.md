@@ -163,7 +163,7 @@ Generates business case files and ROI analysis
 ## 👨‍💻 About This Academic Project
 
 **Student**: Asad Adnan | **Program**: Business Analytics  
-**Location**: Chicago, IL → Minneapolis, MN
+**Location**: Chicago, IL
 
 This capstone simulation demonstrates proficiency in:
 - Applied business analytics and NLP techniques
