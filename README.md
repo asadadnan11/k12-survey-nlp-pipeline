@@ -175,4 +175,4 @@ The project showcases how advanced analytics can be applied to real-world busine
 
 ---
 
-**Academic Note**: *This is a demonstration project using synthetic data designed to illustrate analytical methodologies and business intelligence techniques applicable to educational technology contexts.* 
+**Academic Note**: *This is a demonstration project using synthetic data designed to illustrate analytical methodologies and business intelligence techniques applicable to educational technology contexts.*
