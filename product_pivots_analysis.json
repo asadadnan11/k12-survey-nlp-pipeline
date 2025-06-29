@@ -1,0 +1,68 @@
+[
+  {
+    "name": "UI Simplification Initiative",
+    "problem_severity": "HIGH",
+    "affected_users_pct": 67,
+    "negative_feedback_volume": 189,
+    "business_impact": {
+      "user_churn_risk": "23% of users considering alternatives",
+      "support_cost_increase": "$34K monthly excess support costs",
+      "productivity_loss": "18 minutes average task time vs 12 min target"
+    },
+    "solution_details": {
+      "approach": "Adaptive UI complexity based on user proficiency",
+      "implementation_timeline": "4 months",
+      "development_investment": 120000,
+      "projected_roi": "$340,000 annually"
+    },
+    "success_metrics": {
+      "task_completion_improvement": "+28%",
+      "user_satisfaction_increase": "+35%",
+      "support_ticket_reduction": "-42%"
+    }
+  },
+  {
+    "name": "Learning Fatigue Prevention System",
+    "problem_severity": "HIGH",
+    "affected_users_pct": 43,
+    "negative_feedback_volume": 156,
+    "business_impact": {
+      "engagement_drop": "35% session abandonment after 20 minutes",
+      "learning_outcome_impact": "22% lower quiz scores in extended sessions",
+      "retention_risk": "16% of users report platform fatigue"
+    },
+    "solution_details": {
+      "approach": "AI-powered break suggestions and session optimization",
+      "implementation_timeline": "3 months",
+      "development_investment": 85000,
+      "projected_roi": "$280,000 annually"
+    },
+    "success_metrics": {
+      "sustained_engagement_improvement": "+35%",
+      "learning_outcome_scores": "+27%",
+      "user_retention_rate": "+19%"
+    }
+  },
+  {
+    "name": "Mobile-First Teacher Experience",
+    "problem_severity": "MEDIUM",
+    "affected_users_pct": 52,
+    "negative_feedback_volume": 134,
+    "business_impact": {
+      "mobile_adoption_lag": "Only 23% of teachers use mobile regularly",
+      "workflow_inefficiency": "73% report mobile limitations impact teaching",
+      "competitive_disadvantage": "Competitors have 2x mobile engagement"
+    },
+    "solution_details": {
+      "approach": "Complete mobile UX redesign with teacher-centric features",
+      "implementation_timeline": "6 months",
+      "development_investment": 150000,
+      "projected_roi": "$425,000 annually"
+    },
+    "success_metrics": {
+      "mobile_engagement_increase": "+45%",
+      "teacher_productivity_improvement": "+31%",
+      "mobile_feature_usage": "+67%"
+    }
+  }
+]

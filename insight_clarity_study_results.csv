@@ -1,0 +1,6 @@
+metric,baseline,post_dashboard,improvement_pct
+Time to find key insights (minutes),8.3,4.7,43.4
+Correct interpretation rate (%),62.0,89.0,43.5
+User confidence score (1-10),5.4,8.2,51.9
+Data comprehension accuracy (%),68.0,94.0,38.2
+Decision-making speed (minutes),12.1,7.8,35.5

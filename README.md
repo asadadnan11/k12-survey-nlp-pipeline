@@ -81,10 +81,12 @@ The analysis of the synthetic dataset demonstrates the methodology's ability to 
 - Strong correlation (r=0.82) between compound scores and manual sentiment labels
 - Effective differentiation between respondent types and grade groups
 
-**Dashboard Interaction Capabilities:**
-- 6 interactive visualizations with real-time filtering
+**Interactive Dashboard Capabilities:**
+- 6+ interactive visualizations with real-time filtering
 - 3 segmentation dimensions (grade group, respondent type, sentiment)
 - Dynamic keyword analysis updating based on user selections
+- Product impact analysis with ROI projections
+- Strategic recommendations with quantified business impact
 - Export functionality for stakeholder presentations
 
 ![Interactive Dashboard Preview](images/dashboard_preview.png)
@@ -177,7 +179,7 @@ Jupyter Notebook or JupyterLab
 
 2. **Install required dependencies**
    ```bash
-   pip install pandas numpy matplotlib seaborn plotly dash scikit-learn nltk vaderSentiment wordcloud
+   pip install -r requirements.txt
    ```
 
 3. **Download NLTK data** (first time only)
@@ -191,6 +193,22 @@ Jupyter Notebook or JupyterLab
 
 ### Running the Analysis
 
+#### Option 1: Interactive Dashboard (Recommended)
+1. **Launch the dashboard**
+   ```bash
+   python launch_dashboard.py
+   ```
+
+2. **Access the dashboard** at `http://localhost:8501`
+
+3. **Explore interactive features**:
+   - **Real-time filtering** by respondent type, grade level, and sentiment
+   - **Dynamic visualizations** with Plotly interactive charts
+   - **Drill-down analytics** for detailed insights
+   - **Product impact analysis** with ROI projections
+   - **Strategic recommendations** based on NLP findings
+
+#### Option 2: Jupyter Notebook Analysis
 1. **Launch Jupyter Notebook**
    ```bash
    jupyter notebook
@@ -206,19 +224,31 @@ Jupyter Notebook or JupyterLab
    - Each section builds on previous analysis
    - Interactive visualizations will render inline
 
-### Exploring the Interactive Dashboard
-
-1. **Uncomment the dashboard server line** in the final cell:
-   ```python
-   dash_app.run_server(debug=True, port=8050)
+#### Option 3: Generate Business Impact Report
+1. **Run the impact analysis**
+   ```bash
+   python product_impact_study.py
    ```
 
-2. **Access the dashboard** at `http://localhost:8050`
+2. **Review generated files**:
+   - `insight_clarity_study_results.csv` - 40% improvement metrics
+   - `product_pivots_analysis.json` - Strategic product decisions
+   - `curriculum_dashboard_impact.csv` - Dashboard effectiveness data
 
-3. **Explore interactive features**:
-   - Filter by respondent type, grade group, and sentiment
-   - Dynamic chart updates based on selections
-   - Examine different data slices and patterns
+### Interactive Dashboard Features
+
+**🎯 Overview Tab**: Response distribution, grade level analysis, and timeline visualization
+**😊 Sentiment Analysis**: Deep dive into sentiment patterns across demographics
+**🔍 Keyword Insights**: TF-IDF analysis and pain point identification
+**📈 Product Impact**: Three strategic product pivots with ROI analysis
+**💡 Recommendations**: Prioritized action items with business rationale
+
+**Key Capabilities**:
+- Filter by respondent type, grade group, and sentiment
+- Dynamic chart updates based on user selections
+- Export functionality for stakeholder presentations
+- Real-time pain point analysis (learning fatigue, UI barriers)
+- Strategic business recommendations with quantified impact
 
 ### Adaptation for Real Data
 

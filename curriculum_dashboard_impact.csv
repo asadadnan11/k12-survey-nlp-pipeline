@@ -1,0 +1,6 @@
+metric,baseline,post_dashboard,improvement_pct,direction
+Insight Discovery Time Minutes,23.4,8.7,62.82051282051282,faster
+Data Interpretation Accuracy Pct,62.0,87.0,40.32258064516129,improvement
+Decision Confidence Score,5.2,7.8,49.999999999999986,improvement
+Actionable Insights Identified,3.1,5.8,87.09677419354837,improvement
+Curriculum Adjustments Monthly,2.3,4.1,78.26086956521739,improvement
